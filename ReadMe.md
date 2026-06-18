@@ -56,11 +56,11 @@
 
 ### 🚀 Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html,css,tkinter" />
 
 ### 🗄️ Databases
 
