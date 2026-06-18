@@ -4,7 +4,7 @@
 
 ### 💻 Frontend Developer • 🎬 Video Editor • 🤖 ML Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Website+Creator;Video+Editor;Learning+Machine+Learning;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Website+Creator;Video+Editor;Machine+Learning+Learner;Always+Learning+New+Things+🚀" />
 
 <br>
 
