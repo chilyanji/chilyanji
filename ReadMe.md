@@ -61,6 +61,7 @@
 ### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,python" />
+
 ### 🎨 Backend
 
 <img src="https://skillicons.dev/icons?i=python" />
